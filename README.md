@@ -5,7 +5,6 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyogenez&theme=tokyonight&row=1&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="dyogenez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rqzen187" target="blank"><img src="https://img.shields.io/twitter/follow/rqzen187?logo=twitter&style=for-the-badge" alt="rqzen187" /></a> </p>
 
 - 🌱 I’m currently learning **Kali Linux, JavaScript**
 
