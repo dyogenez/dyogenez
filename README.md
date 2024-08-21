@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dyogenez</h1>
-<h3 align="center">16y/o from germany</h3>
+<h3 align="center">17y/o from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyogenez&label=Profile%20views&color=0e75b6&style=flat" alt="dyogenez" /> </p>
 
